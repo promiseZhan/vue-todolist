@@ -1,6 +1,8 @@
 # vue-todolist
 基于vue+mock写的待办事项，练习demo
 
+![image](https://promisezhan.github.io/vue-todolist/demo.png)
+
 ## Project setup
 ```
 yarn install
